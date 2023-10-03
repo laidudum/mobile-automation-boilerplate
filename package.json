@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "private": true,
     "devDependencies": {
-        "@wdio/cli": "^7.25.1"
+        "@wdio/cli": "^8.16.18"
     },
     "scripts": {
         "wdio": "wdio run wdio.conf.js"
